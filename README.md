@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avirupsett" alt="avirupsett" /></a> </p>
 
-- 🔭 I’m currently working on [Inspirigence Works](http://inspirigenceworks.com/)
+- 🔭 I had worked at [Inspirigence Works](http://inspirigenceworks.com/) for 1 year.
 
 - 👨‍💻 All of my projects are available at [https://avirupsett.netlify.app/](https://avirupsett.netlify.app/)
 
